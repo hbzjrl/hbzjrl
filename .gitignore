@@ -1,0 +1,6 @@
+# Project exclude paths
+/hbzjrl-common/target/
+/hbzjrl-manager/hbzjrl-manager-mapper/target/
+/hbzjrl-manager/hbzjrl-manager-pojo/target/
+/hbzjrl-manager/hbzjrl-manager-service/target/
+/hbzjrl-manager-web/target/
